@@ -1,2 +1,2 @@
 # beijingjiaotonguniversity.github.io
-A new look ofBJTU
+A new look of BJTU
